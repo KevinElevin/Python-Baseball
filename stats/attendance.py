@@ -1,4 +1,4 @@
-from data import games
+from .data import games
 import pandas as pd
 import matplotlib.pyplot as plt
 import sys
